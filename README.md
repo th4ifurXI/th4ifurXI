@@ -10,20 +10,14 @@ I’m passionate about backend development, full-stack web applications, cloud-b
 
 ### 🚀 Personal Projects
 
-#### 🔹 [Drone Swarm Simulation](https://github.com/th4ifurXI/DroneSwarm)
-A Unity-based simulation of autonomous drones communicating within a swarm using custom algorithms and data structures.  
-The simulation features shortest-path finding, dynamic UI search, and performance benchmarking.  
-Developed as a final project for the Algorithms and Data Structures course.
+#### 🔹 [Drone Swarm Simulation](https://github.com/th4ifurXI/DroneSwarm)  
+A Unity-based simulation of autonomous drones communicating within a swarm using custom algorithms and data structures. The project includes features like dynamic UI search, shortest-path calculations, and runtime performance analysis. Built for an Algorithms and Data Structures course, this project strengthened my understanding of graph traversal, partitioning logic, and UI-system integration within a real-time simulation.
 
-#### 🔹 [iEmployee](https://github.com/th4ifurXI/iEmployee)
-a desktop CRUD application developed using Java, JavaFX, and MySQL with phpMyAdmin for database management. Built for an Object-Oriented Programming course, 
-the system allows users to add, view, update, and delete employee records through a user-friendly graphical interface. 
-This project enhanced my understanding of Java OOP concepts, GUI development, and database integration.
+#### 🔹 [iEmployee](https://github.com/th4ifurXI/iEmployee)  
+A desktop CRUD application developed using Java, JavaFX, and MySQL, with phpMyAdmin used for database administration. Designed for an Object-Oriented Programming course, this system manages employee records through a user-friendly GUI. This project enhanced my skills in Java OOP design, event-driven programming, and backend integration for desktop apps.
 
-#### 🔹 [YelpCamp](https://github.com/th4ifurXI/YelpCampDeploy)
-A full-stack web development project (bootcamp final) inspired by Yelp, using MongoDB, Node.js, Express, and EJS templating. 
-Features include authentication, CRUD functionality, user reviews, and map integration. This was my first step into the web application development.
-I learned from scratch how to develop, refactor, optimize, secure and deploy a web application.
+#### 🔹 [YelpCamp](https://github.com/th4ifurXI/YelpCampDeploy)  
+A full-stack web development project inspired by Yelp, built using Node.js, Express, MongoDB, and EJS. The app features user authentication, CRUD operations, location mapping, and UI templating. It was developed as part of a web dev bootcamp and introduced me to backend frameworks, RESTful routing, and deployment on cloud platforms.
 
 ---
 
