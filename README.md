@@ -1,4 +1,4 @@
-<h1>👨‍💻 Muhammad Thaifur Shahidan a.k.a th4ifurXI</h1>
+<h1>👨‍💻 Thaifur Shahidan a.k.a th4ifurXI</h1>
 
 I'm a 2nd Year Computer Science student at Universiti Teknologi PETRONAS (UTP), Malaysia 🇲🇾. My journey into tech began with robotics in high school, where I explored LEGO EV3 and VEX kits 🤖. Although I enjoyed building robots, I found myself deeply interested in programming, which led me to pursue Computer Science. I'm constantly learning new technologies, building personal projects, and striving to become a software engineer who creates meaningful and user-focused applications. I’m passionate about backend development, full-stack web applications, cloud-based solutions ☁️, and system design.
 
